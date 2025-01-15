@@ -53,3 +53,4 @@ def main():
             print("Lua chon sai.")
 if __name__ == '__main__':
     main()
+print("anhhoandepzai")
